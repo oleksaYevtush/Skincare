@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'Strong';
+    src: url('Strong-Regular.woff2') format('woff2'),
+        url('Strong-Regular.woff') format('woff');
+    font-weight: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('Inter-Regular.woff2') format('woff2'),
+        url('Inter-Regular.woff') format('woff');
+    font-weight: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Style Script';
+    src: url('StyleScript-Regular.woff2') format('woff2'),
+        url('StyleScript-Regular.woff') format('woff');
+    font-weight: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src: url('Raleway-Regular.woff2') format('woff2'),
+        url('Raleway-Regular.woff') format('woff');
+    font-weight: normal;
+    font-display: swap;
+}
+
